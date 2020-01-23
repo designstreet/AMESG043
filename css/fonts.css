@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Guardian Egyp';
+    src: url('GuardianEgyp-Regular.woff2') format('woff2'),
+        url('GuardianEgyp-Regular.woff') format('woff'),
+        url('GuardianEgyp-Regular.svg#GuardianEgyp-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
